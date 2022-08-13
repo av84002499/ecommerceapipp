@@ -1,3 +1,3 @@
 Test Link
 
-https://swaraj-app.herokuapp.com/shop
+https://swaraj-app.herokuapp.com/
